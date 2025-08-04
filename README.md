@@ -2,10 +2,6 @@
 
 Um aplicativo web simples e elegante para sortear amigos secretos de forma divertida e fácil!
 
-## 📸 Preview
-
-![Amigo Secreto](./assets/amigo-secreto.png)
-
 ## ✨ Funcionalidades
 
 - 👥 **Adicionar Amigos**: Digite os nomes dos participantes do amigo secreto
